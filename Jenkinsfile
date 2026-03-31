@@ -9,7 +9,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/SaujanyaGrampurohti/calculator-project.git'
+                git 'https://github.com/SaujanyaGrampurohit/calculator-project.git'
             }
         }
 
